@@ -14,4 +14,4 @@ and 60% coursework).
 Note: 
 This code was constructed back in 2017 to test the ranking system I was 
 working on for a cancelled game at the time, more info regarding this:
-https://alexp1049.wixsite.com/alexphillipscelllx/Project_CopterCar
+https://alexp1049.wixsite.com/alexphillipscelllx/project-copter-car
